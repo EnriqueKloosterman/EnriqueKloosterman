@@ -1,6 +1,6 @@
 #  About Me:
 <div align="center">
-    <img src="https://console.cloudinary.com/console/c-76ad04904b64c1b57d5a156854c6a8/media_library/search?q=&view_mode=mosaic" alt="logo"/>
+    <img src="https://res.cloudinary.com/deumagcgr/image/upload/v1723562407/author/code_1723562405129.webp" alt="logo"/>
 </div>
 💻 I´m a fullstack developer.
 klosostermanen@gmail.com
