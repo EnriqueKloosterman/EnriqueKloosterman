@@ -7,7 +7,8 @@ klosostermanen@gmail.com
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Enrique Kloosterman) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EnriqueKloosterman)
+
 
 
 # 💻 Tech Stack:
