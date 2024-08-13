@@ -1,9 +1,10 @@
-#  About Me:
+<div align="center" style="color: #00BFFF; font-size: 2em;">About Me</div>
 <div align="center">
     <img src="https://res.cloudinary.com/deumagcgr/image/upload/v1723562407/author/code_1723562405129.webp" alt="logo"/>
 </div>
-💻 I´m a fullstack developer.
-klosostermanen@gmail.com
+💻 Fullstack developer.
+
+📧 **Contact:** <p style="color: #808080;">klosostermanen@gmail.com</p>
 
 
 ## 🌐 Socials:
